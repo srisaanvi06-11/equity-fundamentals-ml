@@ -30,6 +30,3 @@ Solo products still add one substantial vertical slice beyond the shared core.
 To be recorded at the first consequential integration decision (expected: how
 fund embeddings feed the exit classifier without leaking *t+1* information).
 
-## Maintenance responsibility
-
-@srisaanvi06-11 investigates defects in every component through final review.
