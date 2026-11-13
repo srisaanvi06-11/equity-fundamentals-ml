@@ -15,14 +15,6 @@ built.
 
 ---
 
-## Template: Data Science and Machine Learning Project Template
-
-This is the starting repository for final projects in Rice University
-CMOR 438 / INDE 577. It is a small but complete machine-learning system that
-students extend throughout the semester. The goal is not merely to fit models
-in notebooks. The goal is to learn how mathematical ideas become tested,
-reviewed, reproducible, deployable, and observable software.
-
 > **The template supplies the production shell; your team supplies the
 > scientific and product substance.** You will bring your own data, implement
 > course algorithms, write tests, compare your work with trusted libraries,
